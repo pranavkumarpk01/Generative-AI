@@ -1,3 +1,8 @@
+requests
+langchain-text-splitters
+qdrant-client
+pypdf
+
 #First create a virtual environment
 #Activate it 
 #pip install qdrant-client pypdf langchain langchain-community pyyaml requests
